@@ -1,0 +1,14 @@
+{
+  "dataStudio": {
+    "name": "Mi Radar Chart",
+    "company": "Mi Organización",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Spider_Chart.svg/200px-Spider_Chart.svg.png",
+    "tutorialUrl": "https://developers.google.com/looker-studio/visualizations",
+    "description": "Un ejemplo de gráfico radar con Chart.js",
+    "resources": {
+      "js": [
+        "https://cdn.jsdelivr.net/npm/chart.js"   // Librería para crear el radar
+      ]
+    }
+  }
+}
